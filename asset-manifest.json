@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/hsoting/static/css/main.0a13c7c4.css",
+    "main.js": "/hsoting/static/js/main.b4285a4e.js",
+    "static/media/giri.jpg": "/hsoting/static/media/giri.9f253e1acb183ceff84e.jpg",
+    "static/media/palmgrove.png": "/hsoting/static/media/palmgrove.7ae77ca83ef4dc478a4f.png",
+    "static/media/sijan.JPG": "/hsoting/static/media/sijan.30f367d436a0a4e180ef.JPG",
+    "static/media/webdev.svg": "/hsoting/static/media/webdev.1f92353de0c0e5bf5e2ceff812381c4d.svg",
+    "static/media/autotrador.png": "/hsoting/static/media/autotrador.06df2fc8db013cc45dd9.png",
+    "static/media/main_logo.png": "/hsoting/static/media/main_logo.1e1227561111c19be04e.png",
+    "static/media/consultation.svg": "/hsoting/static/media/consultation.ede9466b3634733f30c8d1a1b7bbe939.svg",
+    "static/media/hosting.svg": "/hsoting/static/media/hosting.b755d3eebb287dde8fcd287cb1d5653e.svg",
+    "static/media/app.svg": "/hsoting/static/media/app.3d550d02d3409ad587451a91e97e78fb.svg",
+    "static/media/klin.jpg": "/hsoting/static/media/klin.d0074cbd7295660e6ec7.jpg",
+    "static/media/Web-developer.svg": "/hsoting/static/media/Web-developer.6c7276fff94ccaae45617195f0ef27ae.svg",
+    "static/media/footer.svg": "/hsoting/static/media/footer.70b54bbe52a797ce69c1.svg",
+    "static/media/web.svg": "/hsoting/static/media/web.bceccecdef8e71bd5a8d73effe14fdba.svg",
+    "index.html": "/hsoting/index.html",
+    "static/media/hero-bg.svg": "/hsoting/static/media/hero-bg.c3b4448a16ff1a8da834.svg",
+    "main.0a13c7c4.css.map": "/hsoting/static/css/main.0a13c7c4.css.map",
+    "main.b4285a4e.js.map": "/hsoting/static/js/main.b4285a4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a13c7c4.css",
+    "static/js/main.b4285a4e.js"
+  ]
+}
