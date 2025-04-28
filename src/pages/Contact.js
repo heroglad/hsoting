@@ -196,7 +196,7 @@ const Contact = () => {
                         
                             <div className='mt-5'>
                                 <h2 className="text-2xl">Send an E-mail</h2>
-                                <p className="text-gray-400">deltaquants.info@gmail.com</p>
+                                <p className="text-gray-400">betaquants.info@gmail.com</p>
                             </div>
                        
                         </div>
