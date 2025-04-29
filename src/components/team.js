@@ -6,14 +6,14 @@ const teamMembers = [
 
   {
     name: "Sijan Khadka",
-    role: "CEO & Co-Founder",
+    role: "Co-Founder & CEO",
     email:"sijankhadkachhetri@gmail.com",
     number:"+977-9744308416",
     image: member1
   },
   {
     name: "Sagar Giri",
-    role: "CTO & Co-Founder",
+    role: "Co-Founder & CTO",
     email:"girisagar2323@gmail.com",
     number:"+977-9841615449",
     image: member2
