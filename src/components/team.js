@@ -6,7 +6,7 @@ const teamMembers = [
 
   {
     name: "Sijan Khadka",
-    role: "CEO & Founder",
+    role: "CEO & Co-Founder",
     email:"sijankhadkachhetri@gmail.com",
     number:"+977-9744308416",
     image: member1
