@@ -17,6 +17,13 @@ const teamMembers = [
     email:"girisagar2323@gmail.com",
     number:"+977-9841615449",
     image: member2
+  },
+  {
+    name: "Mahesh Shrestha",
+    role: "Full Stack Developer",
+    email:"maheshsh1@gmail.com",
+    number:"+977-9848645278",
+    image: member2
   }
 ];
 
