@@ -22,31 +22,31 @@ const teamMembers = [
     name: "Mahesh Shrestha",
     role: "Full Stack Developer",
     email:"maheshsakya34@gmail.com",
-    number:"+977-9824163256",
+    number:"+977-9824163256"
   },
-   {
+  {
     name: "Anil B.K",
     role: "App Developer",
     email:"anilbk@gmail.com",
-    number:"+977-985637268",
+    number:"+977-985637268"
   },
-     {
+  {
     name: "Nabin Khatri",
     role: "Web Developer",
     email:"khatrinabin67@gmail.com",
-    number:"+977-9823674593",
+    number:"+977-9823674593"
   },
-       {
+  {
     name: "Nabin Khatri",
     role: "Frontend Developer",
     email:"khatrinabin67@gmail.com",
-    number:"+977-9823674593",
+    number:"+977-9823674593"
   },
   {
     name: "Krischal Gautam",
     role: "Graphics Designer",
     email:"krischalgautam45@gmail.com",
-    number:"+977-9827568742",
+    number:"+977-9827568742"
   }
 ];
 
