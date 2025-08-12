@@ -21,14 +21,14 @@ const teamMembers = [
   {
     name: "Mahesh Shrestha",
     role: "Full Stack Developer",
-    email:"girisagar2323@gmail.com",
-    number:"+977-9841615449",
+    email:"maheshsakya34@gmail.com",
+    number:"+977-9824163256",
   },
    {
     name: "Anil B.K",
     role: "App Developer",
     email:"anilbk@gmail.com",
-    number:"+977-9841615449",
+    number:"+977-985637268",
   },
      {
     name: "Nabin Khatri",
@@ -38,7 +38,7 @@ const teamMembers = [
   },
        {
     name: "Nabin Khatri",
-    role: "Front end Developer",
+    role: "Frontend Developer",
     email:"khatrinabin67@gmail.com",
     number:"+977-9823674593",
   },
