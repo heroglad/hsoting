@@ -1,25 +1,9 @@
 import React, { useRef, useState } from 'react';
-import klin from '../images/clients/klin.jpg';
 import annapurna from '../images/clients/annupurna.png';
-import autotrador from '../images/clients/autotrador.png';
 import palmgrove from '../images/clients/palmgrove.png';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
 
 const clients = [
-  {
-    name: "Klin",
-    logo: klin,
-    shortDesc: "Laundry service provider",
-    fullDesc: "Klin Laundromat is a pioneering laundry service based in Kathmandu, Nepal, offering reliable, affordable, and high-quality cleaning solutions.",
-    link: "https://klin.com.np"
-  },
-  {
-    name: "Autotraders",
-    logo: autotrador,
-    shortDesc: "Automobile Platform",
-    fullDesc: "Auto Trader is a U.S.-based automobile company specializing in the buying and selling of both new and pre-owned vehicles.",
-    link: "https://www.autotrader.com"
-  },
   {
     name: "Annapurna Pharmacy",
     logo: annapurna,
