@@ -37,10 +37,10 @@ const teamMembers = [
     number:"+977-9823674593"
   },
   {
-    name: "Nabin Khatri",
+    name: "Aman sakya",
     role: "Frontend Developer",
-    email:"khatrinabin67@gmail.com",
-    number:"+977-9823674593"
+    email:"amansakya34@gmail.com",
+    number:"+977-9856734543"
   },
   {
     name: "Krischal Gautam",
