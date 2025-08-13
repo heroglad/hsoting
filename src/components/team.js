@@ -16,7 +16,6 @@ const teamMembers = [
     role: "Co-Founder & CTO",
     email:"girisagar2323@gmail.com",
     number:"+977-9841615449",
-    image: member2
   },
   {
     name: "Mahesh Shrestha",
